@@ -1,0 +1,13 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "rtthread.h": "c",
+        "usb_device.h": "c",
+        "usbd_cdc_if.h": "c",
+        "usbd_cdc.h": "c",
+        "usbd_ioreq.h": "c",
+        "usbd_def.h": "c",
+        "oled.h": "c",
+        "flash.h": "c"
+    }
+}

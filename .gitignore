@@ -1,0 +1,12 @@
+*.user
+*.suo
+
+Firmware/build
+Hardware/History
+Hardware/__Previews
+Hardware/Project Logs for Power-Monitor
+
+*.PrjPcbStructure
+
+*.pdb
+*.ipch
